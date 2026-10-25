@@ -14,9 +14,11 @@ El formulario de contacto tiene campos para nombre, correo y mensaje. Es una dem
 - CSS para definir los colores, los espacios y la distribución.
 - Git para guardar los cambios y GitHub para compartir el proyecto.
 
-## Cómo abrirlo
+## Sitio publicado
 
-Puedo ver la página publicada en [mi portafolio](https://cegarcia-arch.github.io/portafolio-personal/).
+[Ver mi portafolio publicado](https://cegarcia-arch.github.io/portafolio-personal/).
+
+## Cómo abrirlo
 
 Para abrir una copia en mi computadora:
 
