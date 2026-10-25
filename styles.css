@@ -1,21 +1,52 @@
+:root {
+    --color-fondo: #f3f5f7;
+    --color-texto: #243442;
+    --color-principal: #17465c;
+    --color-blanco: #ffffff;
+    --color-enlace: #12657d;
+}
+
 body {
     margin: 0;
     font-family: Arial, sans-serif;
-    background-color: #f3f5f7;
-    color: #243442;
+    background-color: var(--color-fondo);
+    color: var(--color-texto);
     line-height: 1.6;
 }
 
 .encabezado {
     padding: 24px;
-    background-color: #17465c;
-    color: #ffffff;
+    background-color: var(--color-principal);
+    color: var(--color-blanco);
     text-align: center;
 }
 
 .encabezado h1 {
     margin: 0;
     font-size: 28px;
+}
+
+.menu {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 12px;
+    padding: 0;
+    margin: 20px 0 0;
+    list-style: none;
+}
+
+.menu a {
+    display: block;
+    padding: 6px 12px;
+    color: var(--color-blanco);
+    text-decoration: none;
+    border-radius: 4px;
+}
+
+.menu a:hover {
+    background-color: var(--color-blanco);
+    color: var(--color-principal);
 }
 
 .contenido {
@@ -25,13 +56,32 @@ body {
 }
 
 .seccion {
+    margin-bottom: 20px;
     padding: 24px;
-    background-color: #ffffff;
+    background-color: var(--color-blanco);
     border-radius: 8px;
 }
 
 .seccion h2 {
     margin-top: 0;
+}
+
+.presentacion {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 24px;
+}
+
+.foto {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+.texto-presentacion {
+    flex: 1 1 220px;
 }
 
 .pie {
@@ -40,5 +90,14 @@ body {
 }
 
 a {
-    color: #17465c;
+    color: var(--color-enlace);
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+a:focus-visible {
+    outline: 3px solid currentColor;
+    outline-offset: 3px;
 }
