@@ -10,6 +10,10 @@ Portafolio en desarrollo para la Actividad Integradora 1 de Programación de Sis
 - CSS para aplicar los estilos.
 - Git y GitHub para registrar los avances y compartir el proyecto.
 
+## Repositorio público
+
+https://github.com/cegarcia-arch/portafolio-personal
+
 ## Cómo visualizarlo
 
 1. Descargar la carpeta del proyecto.
@@ -31,7 +35,7 @@ Proyectos tiene dos tarjetas con imagen, título y descripción breve. Se muestr
 
 Las habilidades propuestas son gestión de fibra óptica, mantenimiento de infraestructura, organización de tareas y trabajo en equipo. El texto personal y las habilidades son un borrador para que Cesar revise que describen su experiencia, sus intereses y sus objetivos.
 
-La fotografía fue proporcionada por el usuario. La información sobre estudios, la revisión final y la publicación están pendientes.
+La fotografía fue proporcionada por el usuario. La información sobre estudios y la revisión final están pendientes. El repositorio ya está publicado en GitHub.
 
 ## Proyectos
 
