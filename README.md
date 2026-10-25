@@ -30,11 +30,3 @@ No necesita instalar paquetes. Para editarlo en Phoenix Code, se abre la carpeta
 ## Repositorio
 
 [Ver mi repositorio en GitHub](https://github.com/cegarcia-arch/portafolio-personal).
-
-## Apoyo y fuentes
-
-Recibí ayuda de Codex para generar el HTML, el CSS, parte de los textos, las ilustraciones iniciales y este README. Los prompts utilizados y los cambios realizados durante el proceso se detallarán en el informe de la actividad.
-
-Como referencia visual para las tarjetas consulté el [portafolio de Robinson Suárez](https://robsuarezes-del.github.io/integradora-1/).
-
-La primera tarjeta muestra una captura de mi portafolio. Para la segunda usé la fotografía [OFC LC.JPG](https://commons.wikimedia.org/wiki/File:OFC_LC.JPG), de Grahame Bowland, bajo licencia [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/). Es una imagen representativa de fibra óptica; el archivo original no fue modificado.
