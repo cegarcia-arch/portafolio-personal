@@ -119,42 +119,11 @@ body {
     border-radius: 4px;
 }
 
-summary {
-    padding: 8px 0;
-    color: var(--color-principal);
-    font-weight: bold;
-    cursor: pointer;
-}
-
-.tabla-contenedor {
-    overflow-x: auto;
-}
-
-table {
-    width: 100%;
-    border-collapse: collapse;
-}
-
-caption {
-    margin-bottom: 8px;
-    text-align: left;
-}
-
-th, td {
-    padding: 8px;
-    border: 1px solid #ced6da;
-    text-align: left;
-}
-
-th {
-    background-color: var(--color-fondo);
-}
-
 .formulario label {
     display: block;
 }
 
-.formulario input, .formulario select, .formulario textarea {
+.formulario input, .formulario textarea {
     box-sizing: border-box;
     width: 100%;
     margin: 6px 0 14px;
@@ -162,11 +131,6 @@ th {
     border: 1px solid #82949e;
     border-radius: 4px;
     font: inherit;
-}
-
-.lista-revision label {
-    display: block;
-    margin: 12px 0;
 }
 
 button {

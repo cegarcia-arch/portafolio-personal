@@ -27,19 +27,19 @@ Para editarlo con Phoenix Code, abrir la carpeta completa del proyecto y selecci
 
 ## Estado del avance
 
-Cuarta etapa: se completaron Proyectos y Contacto. Cada proyecto tiene nombre, descripción, imagen y una demostración desplegable que se abre pulsando su título. Se conserva el contenido de las etapas anteriores.
+Se simplificó Proyectos a tres tarjetas con imagen, título y descripción. Se quitaron la tabla, los desplegables, las casillas y los formularios de demostración. Se conserva únicamente el formulario visual de Contacto.
 
 Las habilidades propuestas son gestión de fibra óptica, mantenimiento de infraestructura, organización de tareas y trabajo en equipo. El texto personal y las habilidades son un borrador para que Cesar revise que describen su experiencia, sus intereses y sus objetivos.
 
 La fotografía, la información sobre estudios, la revisión final y la publicación están pendientes.
 
-## Ejercicios de proyectos
+## Propuestas de proyectos
 
-1. Inventario de equipos: tabla con tres registros ficticios.
-2. Ficha de mantenimiento: campos para equipo, fecha, actividad y observaciones; incluye un botón para limpiar la ficha.
-3. Lista de revisión de fibra: cuatro casillas que se pueden marcar y un botón para reiniciarlas.
+1. Inventario de equipos: idea de una página para presentar los equipos de un área de fibra óptica.
+2. Ficha de mantenimiento: idea de una página para organizar la información de una revisión.
+3. Lista de revisión de fibra: idea de una página para presentar tareas pendientes.
 
-Son prototipos personales de HTML y CSS preparados con ayuda de IA. No son sistemas oficiales de PCCS, no se han utilizado en una empresa y sus datos son de ejemplo. No tienen base de datos, no envían información y no conservan los cambios al recargar la página. La ficha y la lista permiten practicar controles nativos de HTML sin JavaScript.
+Las tarjetas presentan propuestas, no aplicaciones terminadas ni sistemas oficiales de PCCS. No se afirma que Cesar haya desarrollado o utilizado esos sistemas en una empresa. El portafolio es una página de HTML y CSS sin JavaScript ni base de datos.
 
 El formulario de Contacto es únicamente visual. El botón Enviar es de tipo button y no transmite mensajes ni valida los campos al pulsarlo.
 
@@ -47,6 +47,6 @@ PCCS significa Pacific Caribbean Cable System y se refiere a un sistema de cable
 
 ## Uso de inteligencia artificial
 
-La estructura HTML, la hoja CSS, las ilustraciones, las demostraciones y este README se prepararon con ayuda de Codex a partir de la información proporcionada sobre Cesar. La revisión y las adaptaciones del estudiante se documentarán conforme se realicen.
+La estructura HTML, la hoja CSS, las ilustraciones y este README se prepararon con ayuda de Codex a partir de la información proporcionada sobre Cesar. La revisión y las adaptaciones del estudiante se documentarán conforme se realicen.
 
 Perfil: https://github.com/cegarcia-arch
