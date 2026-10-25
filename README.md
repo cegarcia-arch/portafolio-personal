@@ -27,9 +27,11 @@ Para editarlo con Phoenix Code, abrir la carpeta completa del proyecto y selecci
 
 ## Estado del avance
 
-Segunda etapa: menú con cinco enlaces internos y presentación con avatar provisional. Las secciones de destino ya existen, pero su contenido está pendiente. El menú utiliza Flexbox y un efecto `:hover`; los colores se definen como variables dentro de `:root`. La fotografía y la información sobre estudios están pendientes.
+Tercera etapa: se añadieron el texto de Sobre mí y cuatro tarjetas de habilidades con etiquetas `article`. Las tarjetas utilizan Flexbox para distribuirse según el espacio disponible. El menú conserva sus cinco enlaces internos, el efecto `:hover` y los colores definidos como variables dentro de `:root`.
 
-Todavía faltan el contenido de Sobre mí, las cuatro habilidades, los proyectos y el formulario de contacto. Este avance no es la entrega final.
+Las habilidades propuestas son gestión de fibra óptica, mantenimiento de infraestructura, organización de tareas y trabajo en equipo. El texto personal y las habilidades son un borrador para que Cesar revise que describen su experiencia, sus intereses y sus objetivos.
+
+Todavía faltan los proyectos y el formulario de contacto. La fotografía y la información sobre estudios están pendientes. Este avance no es la entrega final.
 
 ## Uso de inteligencia artificial
 

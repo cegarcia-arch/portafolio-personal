@@ -84,6 +84,27 @@ body {
     flex: 1 1 220px;
 }
 
+.lista-habilidades {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 16px;
+}
+
+.habilidad {
+    flex: 1 1 300px;
+    padding: 16px;
+    background-color: var(--color-fondo);
+    border-left: 3px solid var(--color-principal);
+}
+
+.habilidad h3 {
+    margin: 0 0 8px;
+}
+
+.habilidad p {
+    margin: 0;
+}
+
 .pie {
     padding: 20px;
     text-align: center;
