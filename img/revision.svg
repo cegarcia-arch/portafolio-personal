@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="180" viewBox="0 0 600 180">
+    <rect width="600" height="180" fill="#dcecf0"/>
+    <rect x="26" y="22" width="170" height="136" rx="6" fill="#ffffff"/>
+    <path d="M44 48L54 58L72 38M44 88L54 98L72 78M44 128L54 138L72 118M88 50H174M88 90H174M88 130H174" fill="none" stroke="#17465c" stroke-width="5"/>
+    <text x="230" y="85" font-family="Arial, sans-serif" font-size="28" fill="#17465c">Lista de revision</text>
+    <text x="230" y="120" font-family="Arial, sans-serif" font-size="22" fill="#243442">Tareas y pendientes</text>
+</svg>

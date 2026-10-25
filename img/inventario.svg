@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="180" viewBox="0 0 600 180">
+    <rect width="600" height="180" fill="#dcecf0"/>
+    <rect x="26" y="24" width="170" height="132" rx="6" fill="#ffffff"/>
+    <path d="M40 52H182M40 82H182M40 112H182M40 142H182M88 38V142M136 38V142" stroke="#17465c" stroke-width="4"/>
+    <text x="230" y="85" font-family="Arial, sans-serif" font-size="28" fill="#17465c">Inventario</text>
+    <text x="230" y="120" font-family="Arial, sans-serif" font-size="22" fill="#243442">Equipos de ejemplo</text>
+</svg>

@@ -105,6 +105,84 @@ body {
     margin: 0;
 }
 
+.proyecto {
+    margin-top: 24px;
+    padding: 16px;
+    border: 1px solid #ced6da;
+    border-radius: 4px;
+}
+
+.imagen-proyecto {
+    display: block;
+    width: 100%;
+    height: auto;
+    border-radius: 4px;
+}
+
+summary {
+    padding: 8px 0;
+    color: var(--color-principal);
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.tabla-contenedor {
+    overflow-x: auto;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+caption {
+    margin-bottom: 8px;
+    text-align: left;
+}
+
+th, td {
+    padding: 8px;
+    border: 1px solid #ced6da;
+    text-align: left;
+}
+
+th {
+    background-color: var(--color-fondo);
+}
+
+.formulario label {
+    display: block;
+}
+
+.formulario input, .formulario select, .formulario textarea {
+    box-sizing: border-box;
+    width: 100%;
+    margin: 6px 0 14px;
+    padding: 10px;
+    border: 1px solid #82949e;
+    border-radius: 4px;
+    font: inherit;
+}
+
+.lista-revision label {
+    display: block;
+    margin: 12px 0;
+}
+
+button {
+    padding: 10px 18px;
+    border: 0;
+    border-radius: 4px;
+    background-color: var(--color-principal);
+    color: var(--color-blanco);
+    font: inherit;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: var(--color-enlace);
+}
+
 .pie {
     padding: 20px;
     text-align: center;
