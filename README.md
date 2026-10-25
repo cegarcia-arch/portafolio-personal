@@ -23,7 +23,7 @@ Para editarlo con Phoenix Code, abrir la carpeta completa del proyecto y selecci
 
 - `index.html`: estructura y contenido de la página.
 - `styles.css`: estilos externos.
-- `img/`: avatar provisional e ilustraciones. La página utiliza `portafolio.svg` y `mantenimiento.svg` para sus proyectos.
+- `img/`: fotografía de Cesar e imágenes de los proyectos. La página utiliza `cesar-garcia.png` para la presentación, `vista-portafolio.jpg` para el portafolio y `fibra-optica.jpg` para la propuesta de mantenimiento.
 
 ## Estado del avance
 
@@ -31,7 +31,7 @@ Proyectos tiene dos tarjetas con imagen, título y descripción breve. Se muestr
 
 Las habilidades propuestas son gestión de fibra óptica, mantenimiento de infraestructura, organización de tareas y trabajo en equipo. El texto personal y las habilidades son un borrador para que Cesar revise que describen su experiencia, sus intereses y sus objetivos.
 
-La fotografía, la información sobre estudios, la revisión final y la publicación están pendientes.
+La fotografía fue proporcionada por el usuario. La información sobre estudios, la revisión final y la publicación están pendientes.
 
 ## Proyectos
 
@@ -49,3 +49,8 @@ PCCS significa Pacific Caribbean Cable System y se refiere a un sistema de cable
 La estructura HTML, la hoja CSS, las ilustraciones y este README se prepararon con ayuda de Codex a partir de la información proporcionada sobre Cesar. La revisión y las adaptaciones del estudiante se documentarán conforme se realicen.
 
 Perfil: https://github.com/cegarcia-arch
+
+## Imágenes de los proyectos
+
+- `vista-portafolio.jpg`: captura de la página de este proyecto.
+- `fibra-optica.jpg`: fotografía de Grahame Bowland, [OFC LC.JPG](https://commons.wikimedia.org/wiki/File:OFC_LC.JPG), de Wikimedia Commons, bajo [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/). El archivo se conserva sin modificaciones; CSS ajusta su encuadre en la tarjeta. Es una imagen representativa, no una fotografía de instalaciones de PCCS ni de un trabajo de Cesar.
