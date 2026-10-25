@@ -105,8 +105,14 @@ body {
     margin: 0;
 }
 
+.lista-proyectos {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
 .proyecto {
-    margin-top: 24px;
+    flex: 1 1 280px;
     padding: 16px;
     border: 1px solid #ced6da;
     border-radius: 4px;
@@ -115,8 +121,14 @@ body {
 .imagen-proyecto {
     display: block;
     width: 100%;
-    height: auto;
+    height: 160px;
+    object-fit: contain;
+    background-color: #dcecf0;
     border-radius: 4px;
+}
+
+.formulario {
+    max-width: 560px;
 }
 
 .formulario label {

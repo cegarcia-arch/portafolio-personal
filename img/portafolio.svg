@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="180" viewBox="0 0 600 180">
+    <rect width="600" height="180" fill="#dcecf0"/>
+    <rect x="26" y="24" width="170" height="132" rx="6" fill="#ffffff"/>
+    <path d="M26 50H196M112 70H176M112 94H176M46 128H176" stroke="#17465c" stroke-width="5"/>
+    <circle cx="70" cy="84" r="20" fill="#17465c"/>
+    <text x="230" y="85" font-family="Arial, sans-serif" font-size="28" fill="#17465c">Mi portafolio</text>
+    <text x="230" y="120" font-family="Arial, sans-serif" font-size="22" fill="#243442">HTML y CSS</text>
+</svg>

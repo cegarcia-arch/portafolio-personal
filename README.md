@@ -23,25 +23,24 @@ Para editarlo con Phoenix Code, abrir la carpeta completa del proyecto y selecci
 
 - `index.html`: estructura y contenido de la página.
 - `styles.css`: estilos externos.
-- `img/`: avatar provisional e ilustraciones de los tres ejercicios.
+- `img/`: avatar provisional e ilustraciones. La página utiliza `portafolio.svg` y `mantenimiento.svg` para sus proyectos.
 
 ## Estado del avance
 
-Se simplificó Proyectos a tres tarjetas con imagen, título y descripción. Se quitaron la tabla, los desplegables, las casillas y los formularios de demostración. Se conserva únicamente el formulario visual de Contacto.
+Proyectos tiene dos tarjetas con imagen, título y descripción breve. Se muestran en una fila cuando hay espacio y se colocan una debajo de otra en una pantalla estrecha. Contacto contiene un formulario visual de ancho limitado. Se tomó como referencia la sencillez de la página compartida por el usuario, sin reutilizar los datos personales ni las imágenes del otro estudiante.
 
 Las habilidades propuestas son gestión de fibra óptica, mantenimiento de infraestructura, organización de tareas y trabajo en equipo. El texto personal y las habilidades son un borrador para que Cesar revise que describen su experiencia, sus intereses y sus objetivos.
 
 La fotografía, la información sobre estudios, la revisión final y la publicación están pendientes.
 
-## Propuestas de proyectos
+## Proyectos
 
-1. Inventario de equipos: idea de una página para presentar los equipos de un área de fibra óptica.
-2. Ficha de mantenimiento: idea de una página para organizar la información de una revisión.
-3. Lista de revisión de fibra: idea de una página para presentar tareas pendientes.
+1. Mi portafolio personal: corresponde a esta página con presentación, habilidades y contacto.
+2. Mantenimiento de fibra óptica: propuesta de una página informativa relacionada con el entorno de trabajo de Cesar.
 
-Las tarjetas presentan propuestas, no aplicaciones terminadas ni sistemas oficiales de PCCS. No se afirma que Cesar haya desarrollado o utilizado esos sistemas en una empresa. El portafolio es una página de HTML y CSS sin JavaScript ni base de datos.
+El segundo proyecto es una propuesta, no un sistema oficial de PCCS ni una aplicación implementada en una empresa. El portafolio es una página de HTML y CSS sin JavaScript ni base de datos.
 
-El formulario de Contacto es únicamente visual. El botón Enviar es de tipo button y no transmite mensajes ni valida los campos al pulsarlo.
+El formulario de Contacto es únicamente visual. El botón Enviar mensaje es de tipo button y no transmite mensajes ni valida los campos al pulsarlo.
 
 PCCS significa Pacific Caribbean Cable System y se refiere a un sistema de cable submarino. Referencia del nombre y de su estación de amarre en Manta: https://www.arcotel.gob.ec/la-coordinacion-zonal-4-de-la-arcotel-rindio-cuentas-a-la-ciudadania-en-portoviejo/
 

@@ -71,42 +71,33 @@
 
         <section id="proyectos" class="seccion">
             <h2>Mis proyectos</h2>
-            <p>
-                Propuestas de páginas sencillas relacionadas con el trabajo
-                con fibra óptica.
-            </p>
-
-            <article class="proyecto">
-                <img class="imagen-proyecto" src="img/inventario.svg" alt="Ilustración de equipos de fibra óptica" width="600" height="180">
-                <h3>Inventario de equipos</h3>
-                <p>Propuesta de una página para presentar los equipos de un área de fibra óptica.</p>
-            </article>
-
-            <article class="proyecto">
-                <img class="imagen-proyecto" src="img/mantenimiento.svg" alt="Ilustración de una ficha de mantenimiento" width="600" height="180">
-                <h3>Ficha de mantenimiento</h3>
-                <p>Propuesta de una página para organizar la fecha y las observaciones de una revisión.</p>
-            </article>
-
-            <article class="proyecto">
-                <img class="imagen-proyecto" src="img/revision.svg" alt="Ilustración de una lista con tareas marcadas" width="600" height="180">
-                <h3>Lista de revisión de fibra</h3>
-                <p>Propuesta de una página para mostrar las tareas pendientes de mantenimiento.</p>
-            </article>
+            <div class="lista-proyectos">
+                <article class="proyecto">
+                    <img class="imagen-proyecto" src="img/portafolio.svg" alt="Ilustración de una página web personal" width="600" height="180">
+                    <h3>Mi portafolio personal</h3>
+                    <p>Página con mi presentación, habilidades y contacto, hecha con HTML y CSS.</p>
+                </article>
+                <article class="proyecto">
+                    <img class="imagen-proyecto" src="img/mantenimiento.svg" alt="Ilustración de una ficha de mantenimiento" width="600" height="180">
+                    <h3>Mantenimiento de fibra óptica</h3>
+                    <p>Propuesta de una página informativa sobre el mantenimiento de fibra óptica en el entorno de PCCS.</p>
+                </article>
+            </div>
         </section>
 
         <section id="contacto" class="seccion">
             <h2>Contacto</h2>
-            <p>Formulario de práctica. El botón es demostrativo y no envía mensajes.</p>
+            <p>Puedes completar este formulario de demostración.</p>
             <form class="formulario">
                 <label for="nombre">Nombre</label>
-                <input id="nombre" name="nombre" type="text" autocomplete="name" required>
+                <input id="nombre" name="nombre" type="text" placeholder="Escribe tu nombre" autocomplete="name" required>
                 <label for="correo">Correo electrónico</label>
-                <input id="correo" name="correo" type="email" autocomplete="email" required>
+                <input id="correo" name="correo" type="email" placeholder="Escribe tu correo" autocomplete="email" required>
                 <label for="mensaje">Mensaje</label>
-                <textarea id="mensaje" name="mensaje" rows="4" required></textarea>
-                <button type="button">Enviar</button>
+                <textarea id="mensaje" name="mensaje" rows="4" placeholder="Escribe tu mensaje" required></textarea>
+                <button type="button">Enviar mensaje</button>
             </form>
+            <p>Este formulario es visual y no envía mensajes.</p>
         </section>
     </main>
 
