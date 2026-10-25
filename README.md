@@ -23,7 +23,7 @@ Para editarlo con Phoenix Code, abrir la carpeta completa del proyecto y selecci
 
 - `index.html`: estructura y contenido de la página.
 - `styles.css`: estilos externos.
-- `img/`: fotografía de Cesar e imágenes de los proyectos. La página utiliza `cesar-garcia.png` para la presentación, `vista-portafolio.jpg` para el portafolio y `fibra-optica.jpg` para la propuesta de mantenimiento.
+- `img/`: fotografía de Cesar e imágenes de los proyectos. La página utiliza `cesar-garcia.png` para la presentación, `vista-portafolio.jpg` para el portafolio y `fibra-optica.jpg` para el trabajo de mantenimiento.
 
 ## Estado del avance
 
@@ -36,9 +36,9 @@ La fotografía fue proporcionada por el usuario. La información sobre estudios,
 ## Proyectos
 
 1. Mi portafolio personal: corresponde a esta página con presentación, habilidades y contacto.
-2. Mantenimiento de fibra óptica: propuesta de una página informativa relacionada con el entorno de trabajo de Cesar.
+2. Mantenimiento preventivo de fibra óptica: actividad anual orientada a conservar la infraestructura en buen estado y contribuir a su correcto funcionamiento.
 
-El segundo proyecto es una propuesta, no un sistema oficial de PCCS ni una aplicación implementada en una empresa. El portafolio es una página de HTML y CSS sin JavaScript ni base de datos.
+El segundo elemento describe una actividad laboral relacionada con fibra óptica, según la información proporcionada por el usuario, no una aplicación informática. El portafolio es una página de HTML y CSS sin JavaScript ni base de datos.
 
 El formulario de Contacto es únicamente visual. El botón Enviar mensaje es de tipo button y no transmite mensajes ni valida los campos al pulsarlo.
 
