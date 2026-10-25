@@ -16,6 +16,10 @@ El formulario de contacto tiene campos para nombre, correo y mensaje. Es una dem
 
 ## Cómo abrirlo
 
+Puedo ver la página publicada en [mi portafolio](https://cegarcia-arch.github.io/portafolio-personal/).
+
+Para abrir una copia en mi computadora:
+
 1. Descargar el repositorio y descomprimirlo.
 2. Abrir `index.html` en un navegador.
 
