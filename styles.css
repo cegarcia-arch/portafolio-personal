@@ -1,0 +1,44 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f3f5f7;
+    color: #243442;
+    line-height: 1.6;
+}
+
+.encabezado {
+    padding: 24px;
+    background-color: #17465c;
+    color: #ffffff;
+    text-align: center;
+}
+
+.encabezado h1 {
+    margin: 0;
+    font-size: 28px;
+}
+
+.contenido {
+    max-width: 900px;
+    margin: 24px auto;
+    padding: 0 20px;
+}
+
+.seccion {
+    padding: 24px;
+    background-color: #ffffff;
+    border-radius: 8px;
+}
+
+.seccion h2 {
+    margin-top: 0;
+}
+
+.pie {
+    padding: 20px;
+    text-align: center;
+}
+
+a {
+    color: #17465c;
+}
